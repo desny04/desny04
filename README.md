@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 💫 About Me:
 💻 I’m currently working as a Python Developer Intern at Synnefo Solutions<br>🤝 I’m looking to collaborate on web development and backend projects<br>🛠️ I’m looking for help with scaling applications and improving system design<br>🌱 I’m currently learning advanced Django, APIs, and cloud technologies<br>💬 Ask me about Python, Django, and building real-world projects<br>⚡ Fun fact: I enjoy turning ideas into working applications
